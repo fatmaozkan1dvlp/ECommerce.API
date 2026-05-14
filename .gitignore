@@ -1,0 +1,18 @@
+# --- Backend (.NET) ---
+[Bb]in/
+[Oo]bj/
+.vs/
+*.db
+appsettings.Development.json
+
+*.user
+*.db
+*.sln.docstates
+
+# --- IDE ve Sistem ---
+.vscode/
+Thumbs.db
+# --- Visual Studio Kullanıcı Ayarları ---
+*.user
+*.userosscache
+*.sln.docstates
